@@ -1,0 +1,26 @@
+.navbor{
+    background-color: black;
+    height: 55px;
+    display: flex;
+}
+
+
+.logo{
+
+    border: 1px;
+    display: inline-block;
+    width: 100px;
+    margin: 16px 20px;
+    text-align: justify;
+    text-decoration: none;
+    color: blue;
+}
+#poi{
+    margin-right: 400px;
+}
+
+img{
+    height: 20px;
+    width: 40px;
+}
+
